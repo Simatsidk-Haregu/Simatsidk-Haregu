@@ -1,4 +1,4 @@
-Hello, my name is Simatsidk Haregu
+Hello, my name is Simatsidk Haregu,
 I am passionate about bioinformatics data analysis and Linux system administration. Here's a bit about me and what I'm interested in:
 ## About Me
 - 🎓 Currently pursuing a PhD in Molecular Biology and Genetics and working on my thesis in bioinformatics.
