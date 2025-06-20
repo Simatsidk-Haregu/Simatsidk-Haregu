@@ -7,7 +7,7 @@ I am passionate about bioinformatics data analysis and Linux system administrati
 - Analyzing 16S rRNA sequencing and shotgun metagenomics to study microbial influenced corrosion.
 - 🌱 Interested in exploring the intersections of molecular biotechnology and Bioinformatics.
 ## Interests
-- **Machine Learning**: develop predictive models and applied them to solve biologial problems 
+- **Machine Learning**: develop predictive models and applied them to solve biologial questions 
 - **Bioinformatics Data Analysis**: Developing advanced skills in using tools like Linux, Python, R, and Google Colab for genomic data analysis and interpretation.
 - **Linux System Administration**: Exploring Linux server management, scripting for automation, and optimizing computational workflows.
 - **Open Source Contributions**: Eager to contribute to open-source bioinformatics tools and projects while collaborating with the wider bioinformatics community.
